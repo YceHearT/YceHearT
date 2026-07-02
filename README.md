@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, I'm Florian 👋
 
-<!--
-**YceHearT/YceHearT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Romania. I build and operate **[LotoRadar.com](https://lotoradar.com)** — a live lottery statistics platform (Keno, EuroMillions, Powerball & more), built solo and running in production since March 2026.
 
-Here are some ideas to get you started:
+## 🛠 Stack
+- **Backend:** Python · FastAPI · PostgreSQL · Redis · Celery
+- **Frontend:** Vanilla JS — fast, no framework overhead
+- **Infra:** Hetzner VPS · nginx · Cloudflare · automated monitoring with self-repair + Telegram alerts
+- **AI tooling:** Claude API & Claude Code integrated into my daily dev workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📡 LotoRadar highlights
+- 100K+ historical draws processed, live stats for 6+ international lotteries
+- Scoring engine based on hypergeometric probability
+- Real-time leaderboard (SSE), ELO duel system, collectible-card gamification
+- Page 1 Google rankings on multiple competitive keywords within ~3 months
+
+## 📫 Contact
+- 🌐 [lotoradar.com](https://lotoradar.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/florin-eugen-5a2b3624b)
