@@ -9,7 +9,7 @@ Full-stack developer from Romania. I build and operate **[LotoRadar.com](https:/
 - **AI tooling:** Claude API & Claude Code integrated into my daily dev workflow
 
 ## 📡 LotoRadar highlights
-- 2 million+ historical draws processed, live stats for 23+ international lotteries
+- 2 million + historical draws processed, live stats for 23+ international lotteries
 - Scoring engine based on hypergeometric probability
 - Real-time leaderboard (SSE), ELO duel system, collectible-card gamification
 - Page 1 Google rankings on multiple competitive keywords within ~3 months
